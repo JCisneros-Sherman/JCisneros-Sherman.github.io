@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hello there, I'm Josahandi"
+title: "👋 Hello there, I'm Josahandi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
