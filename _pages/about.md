@@ -32,4 +32,6 @@ Through my research I aspire...
 
 
 * To advocate for the integration of interdisciplinary frameworks and practices that demand a profound reflection of the social and ethical implications of information-technology developments and their potential to exacerbate existing disparities.
+
+
 =======
