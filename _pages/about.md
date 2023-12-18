@@ -24,11 +24,11 @@ NATURAL LANGUAGE PROCESSING 🔸 COMPUTER VISION 🔸 DIGITAL ACCESSIBILITY 🔸
 
 Through my research I aspire...
 ======
- 	💠 To develop innovative algorithms, models, and learning protocols that promote equity, fairness, and accessibility. 
+* To develop innovative algorithms, models, and learning protocols that promote equity, fairness, and accessibility. 
 
 
- 	💠 To expand the understanding and cultural awareness of AI systems, their social impact, and bias-evaluation practices that take into consideration the diversity of real-world users.
+* To expand the understanding and cultural awareness of AI systems, their social impact, and bias-evaluation practices that take into consideration the diversity of real-world users.
 
 
 
- 	💠 To advocate for the integration of interdisciplinary frameworks and practices that demand a profound reflection of the social and ethical implications of information-technology developments and their potential to exacerbate existing disparities.
+* To advocate for the integration of interdisciplinary frameworks and practices that demand a profound reflection of the social and ethical implications of information-technology developments and their potential to exacerbate existing disparities.
