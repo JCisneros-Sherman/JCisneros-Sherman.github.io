@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Josahandi's Homepage"
 title_separator          : "-"
-name                     : &name "Josahandi Cisneros-Sherman"
+name                     : &name "J Cisneros-Sherman"
 description              : &description "personal description"
 url                      : https://JCisneros-Sherman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Josahandi Cisneros-Sherman"
   avatar           : "selfie.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Costa Mesa, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
