@@ -1,8 +1,8 @@
 ---
-title: "y"
+title: "Higher Education and the Automation of Inequality through “Inattentional Blindness” : Survey Study"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/2022-12-01-Research-Survey-Study
+excerpt: 'ABSTRACT '
 date: 2022-12-01
 venue: 
 paperurl: /files/JCisneros_DrPinto_ResearchProject_2022.pdf
